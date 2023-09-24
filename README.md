@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Maryam ALObaid</h1>
 <h3 align="center">Graduated from IAU with a Second Honorary Degree | App Developer | Interested in web design, UI/UX.</h3>
 
+<img align="right" alt="coding" width="400" src="![image](https://github.com/maryamALO/maryamALO/assets/111303542/3c659915-bac3-43fc-8fcf-c937b4e13b2c).gif">
+
 <p align="left"> <a href="https://twitter.com/oooipq" target="blank"><img src="https://img.shields.io/twitter/follow/oooipq?logo=twitter&style=for-the-badge" alt="oooipq" /></a> </p>
 
 - 🌱 I’m currently learning **JavaScript**
